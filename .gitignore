@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
+
+chromedriver
+chromedriver.exe
+chromedriver_linux64.zip
+client_secret_lfh.json
